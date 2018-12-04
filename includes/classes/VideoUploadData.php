@@ -11,7 +11,7 @@ class VideoUploadData{
         $this->title = $title;
         $this->description = $description;
         $this->privacy = $privacy;
-        $this->caregory = $category;
+        $this->category = $category;
         $this->uploadedBy = $uploadedBy;
 
     }
